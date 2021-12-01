@@ -3,7 +3,7 @@ import React, {useState} from 'react';
 import { KeyboardAvoidingView, StyleSheet, Text, TextInput, View, TouchableOpacity, Keyboard, Alert } from 'react-native';
 
 
-//component imorts
+//component imports
 import Task from "./components/Task"
 
 export default function App() {
